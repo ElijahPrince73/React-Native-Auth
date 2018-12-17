@@ -24,7 +24,7 @@ const styles = {
     },
     text: {
         alignSelf: 'center',
-        color: '007aff',
+        color: '#007aff',
         fontSize: 16,
         fontWeight: '600',
         paddingTop: 10,
